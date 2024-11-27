@@ -1,0 +1,17 @@
+.container {
+  background-color: aqua;
+  padding: 20px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 30px;
+  list-style: none;
+}/*# sourceMappingURL=second.css.map */

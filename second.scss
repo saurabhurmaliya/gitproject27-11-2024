@@ -1,0 +1,16 @@
+
+@import "_container.scss";
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    ul{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 30px;
+        list-style: none;
+    }
+
+}
